@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou o Ryan
 
-💻 Estudante de Tecnologia da Informação
+💻 Estudante de Engenharia de Software
 📚 Aprendendo programação e desenvolvimento de software
 🚀 Interessado em automação, scripts e tecnologia
 

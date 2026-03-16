@@ -32,11 +32,6 @@
 
 ---
 
-## 🚀 Projetos
-
-* 📄 Script para análise de PDF com Python
-* 🤖 Bot para automação
-* 🏠 Projeto Casa Inteligente
 
 ---
 

@@ -31,9 +31,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan-nextLvl&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-nextLvl&layout=compact&theme=tokyonight&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ryan-nextLvl&theme=tokyonight&locale=pt_BR)
 

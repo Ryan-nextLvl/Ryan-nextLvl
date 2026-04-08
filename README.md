@@ -22,10 +22,10 @@
 ```python
 ryan = {
     "nome":       "Ryan Porto Antunes",
-    "foco":       ["Back-end", "Automacao", "Web"],
+    "foco":       ["Back-end", "Automação", "Web"],
     "linguagens": ["Python", "Java", "C#", "JavaScript"],
     "stack":      ["Django", "Tailwind CSS", "Playwright", "REST APIs"],
-    "estudando":  ["Django avancado", "Java POO", "Arquitetura de Software"],
+    "estudando":  ["Django avançado", "Java POO", "Arquitetura de Software"],
     "contato":    "ryan.nextlvl @ github"
 }
 ```

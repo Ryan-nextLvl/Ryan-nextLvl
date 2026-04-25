@@ -76,6 +76,30 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>📄 <a href="https://github.com/Ryan-nextLvl/any2pdf">any2pdf</a></h3>
+      <p>Ferramenta para conversão de arquivos para PDF (utilitários).</p>
+      <img src="https://img.shields.io/badge/Utility-000000?style=flat-square&logo=github&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>💼 <a href="https://github.com/Ryan-nextLvl/portfolio-hacker">portfolio-hacker</a></h3>
+      <p>Portfólio com tema hacker e efeitos visuais.</p>
+      <img src="https://img.shields.io/badge/Frontend-38B2AC?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 <a href="https://github.com/Ryan-nextLvl/ZapVendasBot">ZapVendasBot</a></h3>
+      <p>Automação para vendas via WhatsApp.</p>
+      <img src="https://img.shields.io/badge/Automation-2EAD33?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>💬 <a href="https://github.com/Ryan-nextLvl/whatsapp-sales-bot">whatsapp-sales-bot</a></h3>
+      <p>Bot de vendas e atendimento usando WhatsApp.</p>
+      <img src="https://img.shields.io/badge/Chatbot-25D366?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 
 ---
